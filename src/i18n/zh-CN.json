@@ -1,0 +1,32 @@
+{
+  "common": {
+    "to": "至",
+    "startDate": "开始日期",
+    "endDate": "结束日期",
+    "action": "操作",
+    "switchLang": "切换为英文"
+  },
+  "pharmacy": {
+    "outStorageTitle": "药品出库管理",
+    "drugName": "药品名称",
+    "outputQty": "出库数量",
+    "lossOut": "盘亏出库",
+    "lossOutSuccess": "盘亏出库成功！"
+  },
+  "nav": {
+    "title": "设备管理",
+    "switchLang": "切换语言",
+    "home": "首页",
+    "ota": "OTA更新",
+    "config": "配置",
+    "deviceInfo": "设备信息",
+    "logs": "日志",
+    "virtualTable": "虚拟表格",
+    "language": "国际化语言",
+    "directive": "指令"
+  },
+  "directive": {
+    "directive": "自定义指令",
+    "autoFocusInput": "自动聚焦输入框"
+  }
+}

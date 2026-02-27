@@ -1,0 +1,32 @@
+{
+  "common": {
+    "to": "to",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "action": "Action",
+    "switchLang": "Switch to Chinese"
+  },
+  "pharmacy": {
+    "outStorageTitle": "Drug Outbound Management",
+    "drugName": "Drug Name",
+    "outputQty": "Outbound Qty",
+    "lossOut": "Inventory Shrinkage Outbound",
+    "lossOutSuccess": "Inventory shrinkage outbound successful!"
+  },
+  "nav": {
+    "title": "Device Management",
+    "switchLang": "Switch Language",
+    "home": "Home",
+    "ota": "OTA Update",
+    "config": "Configuration",
+    "deviceInfo": "Device Info",
+    "logs": "Logs",
+    "virtualTable": "Virtual Table",
+    "language": "Internationalization",
+    "directive": "Directive"
+  },
+  "directive": {
+    "directive": "Custom Directive",
+    "autoFocusInput": "Auto Focus Input"
+  }
+}
