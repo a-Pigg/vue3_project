@@ -41,6 +41,24 @@ const routes = [
       title: 'nav.directive'
     }
   },
+  {
+    path: '/layout',
+    name: 'Layout',
+    component: () => import('@/views/layout/index.vue'),
+    meta: {
+      isShow: true,
+      title: 'nav.layout'
+    }
+  },
+  {
+    path: '/ota',
+    name: 'Ota',
+    component: () => import('@/views/ota/index.vue'),
+    meta: {
+      isShow: true,
+      title: 'nav.ota'
+    }
+  }
 ]
 
 const router = createRouter({

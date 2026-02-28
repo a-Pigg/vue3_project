@@ -23,7 +23,8 @@
     "logs": "Logs",
     "virtualTable": "Virtual Table",
     "language": "Internationalization",
-    "directive": "Directive"
+    "directive": "Directive",
+    "layout":"layout"
   },
   "directive": {
     "directive": "Custom Directive",

@@ -5,10 +5,7 @@
       <el-button @click="toggleLang">切换语言-当前语言{{ locale.value }}</el-button>
     </div>
     <div class="nav-items">
-      <!-- <router-link to="/ota" class="nav-item">OTA更新</router-link>
-      <router-link to="/config" class="nav-item">配置</router-link>
-      <router-link to="/deviceInformation" class="nav-item">检测设备信息</router-link>
-      <router-link to="/logs" class="nav-item">日志</router-link>
+      <!-- 
       <router-link to="/table" class="nav-item">虚拟化表格</router-link>
       <router-link to="/language" class="nav-item">语言</router-link> -->
       <router-link v-for="item in navItems" :key="item.name" :to="item.path" class="nav-item">

@@ -23,7 +23,8 @@
     "logs": "日志",
     "virtualTable": "虚拟表格",
     "language": "国际化语言",
-    "directive": "指令"
+    "directive": "指令",
+    "layout":"布局"
   },
   "directive": {
     "directive": "自定义指令",
